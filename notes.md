@@ -1,6 +1,6 @@
 ## About
 
-Seeda School is a community coding school inspired by the research of Ruha Benjamin and her book, Captivating Technologies, where she outlines the negative and positive impact of technologies on black communities and how we can instead use technology to collectively imagination and build a liberated future.
+Seeda School is a community coding school inspired by the research of Ruha Benjamin and her book, Captivating Technologies. She outlines the negative and positive impact of technologies on black communities and how we can instead use technology to collectively imagination and build a liberated future.
 
 ## Projects
 1. Girls For A Change: "Into to Coding for Community"
@@ -10,7 +10,7 @@ Seeda School is a community coding school inspired by the research of Ruha Benja
 ## Values
 1. Community: We center and empower community in everything we do.
 2. Cooperation: We are advocates of democratic decision making, skill sharing, resource exchange, and mutual aid.
-3. Code: We believe code is powerful but also dangerous. We believe code can be a positive tool when employed to build equitable and liberated futures.
+3. Code: We believe code is powerful but dangerous. We believe code can be a positive tool when employed to build equitable and liberated futures.
 
 
 ## Learn More Section
